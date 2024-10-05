@@ -1,10 +1,14 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I know many people (including myself) who want to be writers, who want to write a book some day and even say that they will, but who still never even start that project.
+That's where this writing challenge application comes in.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+The writing challenge app challenges writers to write every day, a little bit at a time.
+There are two different kinds of challenges, the first being a writing prompt challenge, where the user is given a writing prompt to write a short story around. The second is a sprint challenge, where the user can set a certain amount of time and then just has to keep writing as much as they can until the timer is up.
+You can have multiple different books, each of their own challenge type.
 
-{Describe your purpose for writing this software.}
+The purpose of this software is to challenge writers to start writing every day, to improve their writing and to help them be more comfortable with starting the writing process.
+
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +16,20 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I wrote this code in IntelliJ IDEA
 
-{Describe the programming language that you used and any libraries.}
-
+The programming language I used is Kotlin
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Official Kotlin Documentation](http://url.link.goes.hhttps://kotlinlang.org/docs)
+- [Programiz Kotlin Tutorial](https://www.programiz.com/kotlin-programming)
+- [Baeldung](https://www.baeldung.com/kotlin)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+Features to add:
+- An actual interface so that it doesn't just run out of a terminal
+- An actual writing prompt database with many more writing prompts
+- A share feature to share your writing with friends!
