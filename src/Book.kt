@@ -90,11 +90,8 @@ class Book(type: String, name: String) {
         println("How long do you want your writing sprint to be? (answer in whole minutes)")
         var answer = readln()
         var sprintLength: Long = answer.toLong()
-        println(sprintLength)
         val startTime = LocalDateTime.now()
-        println(startTime)
         val endTime = startTime.plusMinutes(sprintLength)
-        println(endTime)
         print("Ready... Set... WRITE!")
         var writing: Boolean = true
         while (writing)
